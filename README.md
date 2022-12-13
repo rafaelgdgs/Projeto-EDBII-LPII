@@ -1,4 +1,4 @@
-#Projeto Final EDBII - LPII
+# Projeto Final EDBII - LPII
 
 Para compilar basta importar o projeto para o eclipse e executar a partir da classe Main.java contida no pacote br.ufrn.imd.visao.
 
